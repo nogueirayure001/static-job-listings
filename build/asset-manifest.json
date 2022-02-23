@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e311a213.chunk.css",
+    "main.js": "/static/js/main.b01d5d74.chunk.js",
+    "main.js.map": "/static/js/main.b01d5d74.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fd65459a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fd65459a.js.map",
+    "static/js/2.488c1dbe.chunk.js": "/static/js/2.488c1dbe.chunk.js",
+    "static/js/2.488c1dbe.chunk.js.map": "/static/js/2.488c1dbe.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8ab9c02b2d66425777cecffc3d4c0692.js": "/precache-manifest.8ab9c02b2d66425777cecffc3d4c0692.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e311a213.chunk.css.map": "/static/css/main.e311a213.chunk.css.map",
+    "static/js/2.488c1dbe.chunk.js.LICENSE.txt": "/static/js/2.488c1dbe.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/bg-header-mobile.6b5ff5a0.svg",
+    "static/media/Filterbox.component.css": "/static/media/icon-remove.ae67c678.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd65459a.js",
+    "static/js/2.488c1dbe.chunk.js",
+    "static/css/main.e311a213.chunk.css",
+    "static/js/main.b01d5d74.chunk.js"
+  ]
+}
