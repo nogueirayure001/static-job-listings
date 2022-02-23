@@ -1,0 +1,11 @@
+.listings {
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+}
+
+@media screen and (min-width: 764px) {
+  .listings {
+    gap: 2rem;
+  }
+}
