@@ -14,12 +14,11 @@
   width: 4rem;
   height: 4rem;
   border-radius: 50%;
-  background-color: black;
   background-size: cover;
   overflow: hidden;
 }
 
-.listing__img {
+.listing__img img {
   width: 100%;
   height: 100%;
 }
