@@ -10,7 +10,10 @@ const Listing = ({ data, tags, updateFilters }) => {
 
   return (
     <article className='listing'>
-      <div className='listing__img' data-img={`../.${data.logo}`}></div>
+      <div className='listing__img'>
+        {console.log(`../.${data.logo}`)}
+        <img src={`../.${data.logo}`} alt=''></img>
+      </div>
 
       <div className='listing__info-wrapper'>
         <div className='listing__info'>

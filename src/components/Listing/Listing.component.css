@@ -14,48 +14,14 @@
   width: 4rem;
   height: 4rem;
   border-radius: 50%;
+  background-color: black;
   background-size: cover;
   overflow: hidden;
 }
 
-.listing__img[data-img="../../images/photosnap.svg"] {
-  background-image: url(../../images/photosnap.svg);
-}
-
-.listing__img[data-img="../../images/manage.svg"] {
-  background-image: url(../../images/manage.svg);
-}
-
-.listing__img[data-img="../../images/account.svg"] {
-  background-image: url(../../images/account.svg);
-}
-
-.listing__img[data-img="../../images/myhome.svg"] {
-  background-image: url(../../images/myhome.svg);
-}
-
-.listing__img[data-img="../../images/loop-studios.svg"] {
-  background-image: url(../../images/loop-studios.svg);
-}
-
-.listing__img[data-img="../../images/faceit.svg"] {
-  background-image: url(../../images/faceit.svg);
-}
-
-.listing__img[data-img="../../images/shortly.svg"] {
-  background-image: url(../../images/shortly.svg);
-}
-
-.listing__img[data-img="../../images/insure.svg"] {
-  background-image: url(../../images/insure.svg);
-}
-
-.listing__img[data-img="../../images/eyecam-co.svg"] {
-  background-image: url(../../images/eyecam-co.svg);
-}
-
-.listing__img[data-img="../../images/the-air-filter-company.svg"] {
-  background-image: url(../../images/the-air-filter-company.svg);
+.listing__img {
+  width: 100%;
+  height: 100%;
 }
 
 .listing__info-wrapper {
