@@ -48,11 +48,12 @@
 
 .listing__info-company {
   order: 1;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
   font-weight: 700;
-}
-
-.listing__info-company > span:not(:last-child) {
-  margin-right: 1rem;
 }
 
 .listing__info-company > span:not(:first-child) {
